@@ -1,0 +1,16 @@
+.attribution {
+  // background-color: $blue800;
+  // color: $white;
+  font-size: 1.1rem;
+  text-align: center;
+  padding: 1rem;
+
+  a {
+    // color: $cyan;
+    transition: all 0.3s ease-in;
+
+    &:hover {
+      // color: $blue500;
+    }
+  }
+}

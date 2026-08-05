@@ -1,0 +1,18 @@
+{
+  "name": "fm-boiler",
+  "version": "0.1.0",
+  "description": "Scaffold a new Frontend Mentor challenge project using TanStack Start, with Lindsey Dortch's conventions layered on top.",
+  "type": "module",
+  "bin": {
+    "fm-boiler": "./bin/fm-boiler.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "assets"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
