@@ -1,0 +1,20 @@
+{
+  "name": "component-scaffold",
+  "version": "0.1.0",
+  "description": "Quickly scaffold a component's .tsx/.jsx file plus its paired scss module, in any project.",
+  "type": "module",
+  "bin": {
+    "component": "./bin/component.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "dependencies": {
+    "@clack/prompts": "^0.10.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
